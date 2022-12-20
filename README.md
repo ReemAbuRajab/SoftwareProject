@@ -17,16 +17,12 @@ Spring Boot Application Demonstrating activities in Bank Account using Debit and
 
 ### Components:
 - Java
-- [Spring Boot](https://spring.io/projects/spring-boot)
 - [Maven](https://maven.apache.org/guides/index.html)
 - [H2 Database](https://www.h2database.com/html/main.html)
-- [Lombok](https://objectcomputing.com/resources/publications/sett/january-2010-reducing-boilerplate-code-with-project-lombok)
 - [Jacoco](https://www.eclemma.org/jacoco/)
 - [Cucumber](https://cucumber.io/)
-- [Swagger](https://swagger.io/)
-- [GHERKIN](https://cucumber.io/docs/gherkin/)
+- Geinken
 - [Sonar](https://sonarcloud.io/projects)
-- Swagger can be launched in Browser: http://localhost:9010/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
 - H2 Console On Browser: http://localhost:9010/h2-console
 - Code Coverage: After building the projects you can find code coverage in the target path :-
 
